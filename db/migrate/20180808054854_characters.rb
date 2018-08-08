@@ -1,4 +1,4 @@
-class Characters < ActiveRecord::Migration[5.1]
+class Characters < ActiveRecord::Migration[4.2]
   def change
   end
 end
